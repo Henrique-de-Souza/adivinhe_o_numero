@@ -94,15 +94,3 @@ while True:
                     break
     print('<< VOLTE SEMPRE >>')
     break
-
-
-
-
-
-
-
-
-
-
-
-
